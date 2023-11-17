@@ -20,7 +20,7 @@
             </li>
         </ul>
     </header>
-    <main>
+    <main id="content">
         <section id="section_one">
             <ul>
                 <li>
@@ -332,6 +332,11 @@
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js" integrity="sha512-Rd5Gf5A6chsunOJte+gKWyECMqkG8MgBYD1u80LOOJBfl6ka9CtatRrD4P0P5Q5V/z/ecvOCSYC8tLoWNrCpPg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
+
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            document.getElementById('content').innerHTML = '<h1>Esta pré-visualização funciona apenas através de um desktop. </h1>';
+        }
+
         wow = new WOW(
             {
                 boxClass:     'wow',      // default

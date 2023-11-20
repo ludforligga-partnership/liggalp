@@ -1544,7 +1544,7 @@ input#telefone {
     }
 
     ul#first_contract, ul#second_contract {
-        background-color: none;
+        background-color: #ffffff;
     }
 
     section#section_two h3 {
@@ -1736,6 +1736,10 @@ input#telefone {
     section#form_section b {
         font-size: 36px;
     }
+}
+
+@media only screen and (max-width: 490px) {
+    
 }
 
 @media only screen and (max-width: 480px) {

@@ -1638,6 +1638,20 @@ input#telefone {
         font-size: 28px;
     }
 
+    ul#second_contract span {
+        max-width: 200%;
+        width: 200%;
+        position: relative;
+        top: 60px;
+    }
+
+    ul#first_contract span {
+        max-width: 200%;
+        width: 200%;
+        position: relative;
+        top: -50px;
+    }
+    
     ul#free_market > li:nth-child(3), ul#free_market > li:nth-child(4), ul#free_market > li:nth-child(3), ul#free_market > li:nth-child(6), ul#free_market > li:nth-child(3), ul#free_market > li:nth-child(7) {
         display: none;
     }

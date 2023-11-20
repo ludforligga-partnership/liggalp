@@ -1543,6 +1543,10 @@ input#telefone {
         font-size: 32px;
     }
 
+    ul#first_contract, ul#second_contract {
+        background-color: none;
+    }
+
     section#section_two h3 {
         text-align: center;
     }

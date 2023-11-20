@@ -1644,6 +1644,13 @@ input#telefone {
 
     ul#second_contract span {
         max-width: 200% !important;
+        width: 150%;
+        position: relative;
+        top: 60px;
+    }
+
+    ul#second_contract span {
+        max-width: 200% !important;
         width: 200%;
         position: relative;
         top: 60px;

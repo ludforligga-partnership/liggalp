@@ -1003,6 +1003,11 @@ input#telefone {
         font-size: 60px;
     }
 
+    #second_contract span {
+        max-width: 250%;
+        width: 70%;
+    }
+    
     #section_six p {
         width: 350px;
         position: relative;

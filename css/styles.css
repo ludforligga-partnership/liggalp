@@ -1972,7 +1972,7 @@ input#telefone {
     }
 }
 
-@media only screen and (max-width:360px) {
+@media only screen and (max-width:362px) {
     ul#second_contract span {
         max-width: 250% !important;
         width: 250%;

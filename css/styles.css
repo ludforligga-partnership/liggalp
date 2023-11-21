@@ -1741,8 +1741,8 @@ input#telefone {
 
 @media only screen and (max-width: 490px) {
     ul#second_contract span {
-    max-width: 200% !important;
-    width: 150%;
+    max-width: 250% !important;
+    width: 160% !important;
     position: relative;
     top: 60px;
     }
@@ -1843,12 +1843,13 @@ input#telefone {
 
 @media only screen and (max-width: 425px) {
     ul#second_contract span {
-        max-width: 200% !important;
-        width: 200%;
+        max-width: 250% !important;
+        width: 200% !important;
         position: relative;
         top: 60px;
-    }    
+    }
 }
+
 
 @media only screen and (max-width: 376px) {
     section#section_one h1 b {

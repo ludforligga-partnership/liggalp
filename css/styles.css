@@ -1781,13 +1781,13 @@ input#telefone {
     ul#second_contract > li:first-child > i {
         position: relative;
         left: -20px;
-        top: -4px;
+        top: 0px;
     }
-
+    
     ul#second_contract > li:nth-child(3) > i {
         position: relative;
         right: 20.5px;
-        top: -4px;
+        top: 0;
     }
 
     ul#first_contract span, ul#second_contract span {
@@ -1841,6 +1841,15 @@ input#telefone {
     }
 }
 
+@media only screen and (max-width: 425px) {
+    ul#second_contract span {
+        max-width: 200% !important;
+        width: 200%;
+        position: relative;
+        top: 60px;
+    }    
+}
+
 @media only screen and (max-width: 376px) {
     section#section_one h1 b {
         font-size: 26px;
@@ -1882,13 +1891,13 @@ input#telefone {
     ul#second_contract > li:nth-child(3) > i {
         position: relative;
         right: 20.5px;
-        top: -13px;
+        top: 0px;
     }
 
     ul#second_contract > li:first-child > i {
         position: relative;
         left: -20px;
-        top: -13px;
+        top: 0px;
     }
 
     ul#first_contract > li:first-child > i {
@@ -1959,5 +1968,14 @@ input#telefone {
 
     section#section_two h3 {
         width: 75%;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    ul#second_contract span {
+        max-width: 250% !important;
+        width: 250%;
+        position: relative;
+        top: 60px;
     }
 }

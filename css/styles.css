@@ -41,6 +41,18 @@ header img {
     margin:10px 30px;
 }
 
+header > ul > li > ul > li:nth-child(2) > a {
+    margin-right: 0px;
+}
+
+header > ul > li > ul > li > a {
+    color: white;
+    text-decoration: none;
+    font-family: 'plau';
+    font-size: 18px;
+    margin-right: 50px;
+}
+
 #section_one, #section_two, #section_three {
     max-width: 1400px;
     margin: auto;

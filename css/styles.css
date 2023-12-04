@@ -22,7 +22,9 @@ li {
 }
 
 header {
-    background: #1a1a1a;
+    background: transparent;
+    position: relative;
+    z-index: 1;
 }
 
 header ul {

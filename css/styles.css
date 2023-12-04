@@ -177,7 +177,7 @@ section#section_two i {
 
 section#section_two {
     padding: 20px 0px 0px 0px;
-    background-color: #1a1a1a;
+    background-color: #0a3331;
     border-radius: 30px;
     margin-top: 85px;
 }
@@ -626,7 +626,7 @@ section#section_five > ul > li {
 section#section_eight {
     max-width: 1400px;
     margin: auto;
-    background-color: #1a1a1a;
+    background-color: #0a3331;
     padding-top: 15px;
     position: relative;
     top: -50px;

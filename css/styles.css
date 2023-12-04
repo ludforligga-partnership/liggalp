@@ -113,6 +113,10 @@ section#section_one > ul {
     flex-wrap: nowrap;
 }
 
+ul#free_market img {
+    filter: hue-rotate(139deg) !important;
+}
+
 section#section_one > ul > li:first-child {
     margin-right: 75px;
 }

@@ -188,7 +188,7 @@ section#section_two h1 {
 }
 
 section#section_two h1, section#section_two i {
-    color: #ff5314;
+    color: #00b050;
 }
 
 section#section_two h3 {
@@ -259,14 +259,14 @@ ul#first_contract {
     width: 95%;
     margin: auto;
     margin-top: 75px;
-    background-color: #ff531417;
+    background-color: #00b05017;
     padding: 10px 0px;
     border-radius: 15px;
 }
 
 ul#first_contract i {
     font-size: 65px !important;
-    color: #FF5314;
+    color: #00b050;
 }
 
 #first_contract > li:nth-child(3), #first_contract > li:first-child {
@@ -275,7 +275,7 @@ ul#first_contract i {
 
 #first_contract > li:nth-child(2) {
     width: 90%;
-    border-top: 5px solid #ff5314;
+    border-top: 5px solid #00b050;
 }
 
 ul#first_contract li {
@@ -305,13 +305,13 @@ ul#second_contract {
     width: 45%;
     padding: 10px 0px;
     margin-left: 49%;
-    background-color: #ff531459;
+    background-color: #00b05059;
     border-radius: 15px;
 }
 
 ul#second_contract i {
     font-size: 65px !important;
-    color: #ff5314;
+    color: #00b050;
 }
 
 ul#second_contract > li:first-child {
@@ -324,7 +324,7 @@ ul#second_contract > li:nth-child(3) {
 
 ul#second_contract > li:nth-child(2) {
     width: 90%;
-    border-bottom: 5px solid #ff5314;
+    border-bottom: 5px solid #00b050;
 }
 
 ul#second_contract > li {
@@ -359,7 +359,7 @@ ul#second_contract > li:nth-child(3) > i {
 
 section#section_four h1 {
     text-align: center;
-    color: #FF5314;
+    color: #00b050;
 }
 
 section#section_four > ul > li {
@@ -395,7 +395,7 @@ section#section_four b {
 
 section#section_four i {
     font-size: 80px;
-    color: #FF5314;
+    color: #00b050;
 }
 
 section#section_four > ul {
@@ -426,7 +426,7 @@ section#section_five {
 #section_five i {
     font-size: 48px;
     margin-right: 20px;
-    color:#FF5314;
+    color:#00b050;
 }
 
 section#section_five h3 {
@@ -490,7 +490,7 @@ section#section_six a {
     float: right;
     margin-top: 50px;
     color: #080808;
-    background-color: #ff5314;
+    background-color: #00b050;
     text-decoration: none;
     font-family: 'plau';
     font-size: 24px;
@@ -546,7 +546,7 @@ section#section_four h1 {
 }
 
 #section_seven i {
-    color: #ff5314;
+    color: #00b050;
 }
 
 #section_three h1 b {
@@ -606,7 +606,7 @@ section#section_five > ul > li {
     font-size: 55px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #ff5314;
+    color: #00b050;
 }
 
 #section_eight h4 {
@@ -616,7 +616,7 @@ section#section_five > ul > li {
 
 #section_eight i {
     font-size: 72px;
-    color: #FF5314;
+    color: #00b050;
 }
 
 section#section_eight {
@@ -710,7 +710,7 @@ section#form_section b {
 .last-section-li i {
     font-size: 36px;
     margin-left: 20px;
-    color: #ff5314;
+    color: #00b050;
 }
 
 form {
@@ -745,7 +745,7 @@ input#arquivo {
 }
 
 input[type="submit"] {
-    background-color: #ff5314 !important;
+    background-color: #00b050 !important;
     color: black !important;
     font-size: 24px;
     font-weight: 600;
@@ -1340,7 +1340,7 @@ input#telefone {
     .last-section-li i {
         font-size: 36px;
         margin-left: 20px;
-        color: #ff5314;
+        color: #00b050;
         display: none;
     }
 
@@ -1461,7 +1461,7 @@ input#telefone {
     #section_five i {
         font-size: 48px;
         margin-right: 20px;
-        color: #FF5314;
+        color: #00b050;
         display: none;
     }
 
@@ -1594,7 +1594,7 @@ input#telefone {
         font-size: 48px;
         text-transform: uppercase;
         font-weight: 700;
-        color: #ff5314;
+        color: #00b050;
     }
 
     #section_eight > ul {
@@ -1767,7 +1767,7 @@ input#telefone {
         font-size: 36px;
         text-transform: uppercase;
         font-weight: 700;
-        color: #ff5314;
+        color: #00b050;
     }
 
     section#section_six h1 b {

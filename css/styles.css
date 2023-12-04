@@ -58,6 +58,11 @@ main {
     background-size: 100%;
 }
 
+main {
+    position: relative;
+    top: -65px;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: Plau;
     font-weight: 300;

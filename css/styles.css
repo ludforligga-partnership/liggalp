@@ -37,8 +37,11 @@ header ul {
 }
 
 header img {
-    width: 75px;
-    margin:10px 30px;
+    width: 200px;
+    margin: 10px 30px;
+    margin-top: -20px;
+    position: relative;
+    top: 30px;
 }
 
 header > ul > li > ul > li:nth-child(2) > a {

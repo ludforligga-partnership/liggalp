@@ -595,6 +595,10 @@ section#section_five > ul > li {
     width: 50%;
 }
 
+section#section_five > ul > li > img {
+    margin-top: 25px;
+}
+
 #section_eight > ul {
     display: flex;
     margin: auto;
